@@ -8,8 +8,8 @@ Proyek ini merupakan capaian akhir setelah mengikuti kelas "Belajar Machine Lear
 
 Daftar Isi:
 
-Pengunduhan dataset
-Augmentasi citra dan generator data
-Pembuatan model CNN
-Pengujian model CNN
-Prediksi citra menggunakan model CNN
+1. Pengunduhan dataset
+2. Augmentasi citra dan generator data
+3. Pembuatan model CNN
+4. Pengujian model CNN
+5. Prediksi citra menggunakan model CNN
